@@ -1,18 +1,8 @@
-[
-  {
+{
    "SellerName":"Paul Wilkes",
    "Website":"www.bsearch.org",
    "SellerType":"Vendor",
    "NoOfBoats":25,
    "Locations":"Ibiza",
    "Weighting": 0.8
-  },
-  {
-   "SellerName":"Jon Jones",
-   "Website":"www.jonjones.org",
-   "SellerType":"Hacker",
-   "NoOfBoats":400,
-   "Locations":"Venice",
-   "Weighting": 0.4
-  }
-]
+ },
